@@ -1,0 +1,32 @@
+_repo: Mariages-d-aventure_46253
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46253-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46253'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: M.J.D. de Saint-Roch, ambassadeur matrimonial -- Promesses de mariage.
+title: Mariages d'aventure
+url: http://www.gutenberg.org/ebooks/46253
